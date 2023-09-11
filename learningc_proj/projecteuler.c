@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-//P1: sum of multiples of 3 or 5 under 1000
+//P1: sum of multiples of 3 or 5 under 1000.
 int sum3Or5Sub1000() {
     int answerP1 = 0;
     for(int i = 1; i < 1000; i++) {
